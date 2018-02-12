@@ -1,0 +1,19 @@
+{
+  "name": "github-stars-feed",
+  "version": "1.0.0",
+  "description": "Makes a Atom/RSS feed for a Github users stars",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro index.js",
+    "dev": "micro-dev"
+  },
+  "dependencies": {
+    "feed": "^1.1.1",
+    "micro": "^9.1.0",
+    "node-fetch": "^2.0.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^2.2.0"
+  }
+}
