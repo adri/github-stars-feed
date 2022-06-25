@@ -11,7 +11,7 @@
   "dependencies": {
     "feed": "^1.1.1",
     "micro": "^9.1.0",
-    "node-fetch": "^2.0.0"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "micro-dev": "^2.2.0"
